@@ -1,5 +1,5 @@
 classdef BandwidthRLAgent < handle
-    % Bandwidth Allocation RL Agent - FIXED VERSION
+    % Bandwidth Allocation RL Agent
     % Implements strong starvation prevention with balanced rewards
     
     properties
