@@ -1,4 +1,4 @@
-% Bandwidth Allocation Simulation - FIXED RL Agent Version
+% Bandwidth Allocation Simulation
 % This simulation demonstrates effective starvation prevention with RL
 clear all; close all; clc;
 
